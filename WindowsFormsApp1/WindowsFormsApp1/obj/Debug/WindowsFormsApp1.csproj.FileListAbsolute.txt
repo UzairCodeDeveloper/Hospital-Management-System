@@ -1,0 +1,315 @@
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HMS.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineRecord.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WardroomRecord.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDoctor.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fom.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddMedicine.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddWard.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffRecord.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStaff.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDocManagement.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminStaffManagement.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMedManagement.resources
+C:\Users\MyDestro\Desktop\Semester%\Advance Programming Techniques\Projects\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminWardManagement.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDoctor.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddMedicine.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStaff.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddWard.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDocManagement.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMedManagement.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminStaffManagement.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminWardManagement.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fom.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HMS.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineRecord.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffRecord.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WardroomRecord.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Appointments.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorDashboard.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckPatients.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientRecord.resources
+C:\Users\21013219021.uog\Desktop\HospitalManagementSystem_GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPrescription.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDoctor.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddMedicine.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPatient.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPrescription.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStaff.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddWard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDocManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMedManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminStaffManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminWardManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Appointments.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckPatients.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorDashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.doctorSchedule.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fom.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HMS.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffDashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TakeAppointment.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WardroomRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MyDestro\Desktop\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppointmentStatus.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDoctor.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddMedicine.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPatient.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPrescription.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStaff.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddWard.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDocManagement.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMedManagement.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminStaffManagement.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminWardManagement.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Appointments.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppointmentStatus.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckPatients.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorDashboard.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.doctorSchedule.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fom.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HMS.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineRecord.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientRecord.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffDashboard.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffRecord.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TakeAppointment.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WardroomRecord.resources
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\21013219021.uog\Downloads\HospitalManagementSystem_GUI -MINE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDoctor.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddMedicine.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPatient.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddPrescription.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStaff.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddWard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDocManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMedManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminStaffManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminWardManagement.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Appointments.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppointmentStatus.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckPatients.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorDashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.doctorSchedule.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fom.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HMS.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffDashboard.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TakeAppointment.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WardroomRecord.resources
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MyDestro\Desktop\HospitalManagementSystemFinal\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
